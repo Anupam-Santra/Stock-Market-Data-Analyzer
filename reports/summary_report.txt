@@ -1,0 +1,76 @@
+══════════════════════════════════════════════════════════════════════
+   STOCK MARKET DATA ANALYZER — SUMMARY REPORT
+   Generated : 2026-05-10 18:10:08
+   Period    : 2020-01-01  →  2025-01-01
+   Stocks    : AAPL, TSLA, GOOGL, MSFT
+══════════════════════════════════════════════════════════════════════
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  AAPL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Start Price       : $     72.40
+  End Price         : $    249.06
+  Total Return      :    +244.00 %
+  Annualised Return :     +28.03 %
+  Volatility (Ann.) :      31.68 %
+  Sharpe Ratio      :       0.94
+  Max Drawdown      :     -31.43 %
+  Highest Price     : $    257.61
+  Lowest Price      : $     54.21
+  Avg Daily Volume  :      90,571,034
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  TSLA
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Start Price       : $     28.68
+  End Price         : $    403.84
+  Total Return      :   +1307.89 %
+  Annualised Return :     +69.71 %
+  Volatility (Ann.) :      67.18 %
+  Sharpe Ratio      :       1.12
+  Max Drawdown      :     -73.63 %
+  Highest Price     : $    479.86
+  Lowest Price      : $     24.08
+  Avg Daily Volume  :     125,536,792
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  GOOGL
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Start Price       : $     67.87
+  End Price         : $    188.43
+  Total Return      :    +177.62 %
+  Annualised Return :     +22.66 %
+  Volatility (Ann.) :      32.50 %
+  Sharpe Ratio      :       0.79
+  Max Drawdown      :     -44.32 %
+  Highest Price     : $    195.75
+  Lowest Price      : $     52.27
+  Avg Daily Volume  :      33,088,499
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  MSFT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Start Price       : $    152.16
+  End Price         : $    417.46
+  Total Return      :    +174.36 %
+  Annualised Return :     +22.37 %
+  Volatility (Ann.) :      30.50 %
+  Sharpe Ratio      :       0.82
+  Max Drawdown      :     -37.15 %
+  Highest Price     : $    461.32
+  Lowest Price      : $    128.64
+  Avg Daily Volume  :      28,637,765
+
+══════════════════════════════════════════════════════════════════════
+  INSIGHTS
+══════════════════════════════════════════════════════════════════════
+  🏆 Best 5-Year Return  : TSLA  (+1307.89%)
+  📉 Worst 5-Year Return : MSFT (+174.36%)
+  🛡️  Lowest Volatility  : MSFT (30.50%)
+
+──────────────────────────────────────────────────────────────────────
+  ⚠️  DISCLAIMER
+  This report is generated for EDUCATIONAL PURPOSES ONLY.
+  It does NOT constitute financial advice.
+  Past performance is not indicative of future results.
+──────────────────────────────────────────────────────────────────────

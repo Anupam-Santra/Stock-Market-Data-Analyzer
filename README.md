@@ -190,7 +190,7 @@ jupyter notebook notebooks/EDA.ipynb
 ## 🎥 System Demo GIF
 
 <p align="center">
-  <img src="./images/email-automation-reminder-gif.gif" alt="System Demo GIF" width="100%">
+  <img src="./images/Stock Market.gif" alt="System Demo GIF" width="100%">
 </p>
 
 ---
